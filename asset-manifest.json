@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ManishTalmale/FaceRecognition.git/static/css/main.6ca783f6.css",
-    "main.js": "/ManishTalmale/FaceRecognition.git/static/js/main.6ff2abfc.js",
-    "index.html": "/ManishTalmale/FaceRecognition.git/index.html",
-    "main.6ca783f6.css.map": "/ManishTalmale/FaceRecognition.git/static/css/main.6ca783f6.css.map",
-    "main.6ff2abfc.js.map": "/ManishTalmale/FaceRecognition.git/static/js/main.6ff2abfc.js.map"
+    "main.css": "/FaceRecognition/static/css/main.6ca783f6.css",
+    "main.js": "/FaceRecognition/static/js/main.6ff2abfc.js",
+    "index.html": "/FaceRecognition/index.html",
+    "main.6ca783f6.css.map": "/FaceRecognition/static/css/main.6ca783f6.css.map",
+    "main.6ff2abfc.js.map": "/FaceRecognition/static/js/main.6ff2abfc.js.map"
   },
   "entrypoints": [
     "static/css/main.6ca783f6.css",
